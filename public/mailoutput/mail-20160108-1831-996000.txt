@@ -1,0 +1,15 @@
+To: John Smith <bvbvbv262817@mail.ru>
+Subject: Welcome!
+Message-ID: <bddcc409d061f4832cdcc747cb3dd135@localhost>
+Date: Fri, 08 Jan 2016 18:31:04 +0000
+From: my_name <vyskobchuck@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Новый заказ!
+
+
+<ol><li class="cart-list-item"><span> Клубника </span>  <span> 1 
+л.</span> <span> 1 шт.</span>  <span>80 грн</span> </li></ol>
+

@@ -1,0 +1,15 @@
+To: John Smith <almostmarginal@gmail.com>
+Subject: Welcome!
+Message-ID: <3861514605ec16b23ea2df0a3c78c36b@localhost>
+Date: Fri, 08 Jan 2016 17:41:07 +0000
+From: 
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Новый заказ!
+
+
+<ol><li class="cart-list-item"><span> Клубника </span>  <span> 1 
+л.</span> <span> 1 шт.</span>  <span>80 грн</span> </li></ol>
+

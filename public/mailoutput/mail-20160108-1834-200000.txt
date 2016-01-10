@@ -1,0 +1,15 @@
+To: John Smith <almostmarginal@gmail.com>
+Subject: Welcome!
+Message-ID: <3e451f0e98ac6ca309bd1fd26f3df22b@localhost>
+Date: Fri, 08 Jan 2016 18:34:34 +0000
+From: my_name <vyskobchuck@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Новый заказ!
+
+
+<ol><li class="cart-list-item"><span> Вишня </span>  <span> 1 л.</span> 
+<span> 1 шт.</span>  <span>80 грн</span> </li></ol>
+
